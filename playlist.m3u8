@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ULUSAL",FOX
-https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="ULUSAL",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="" group-title="ULUSAL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-logo="" group-title="ULUSAL",SHOW TV
 https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="ULUSAL",ATV
@@ -9,22 +11,41 @@ https://trkvz-live.daioncdn.net/atv/atv.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="" group-title="ULUSAL",STAR
 https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV" tvg-logo="" group-title="ULUSAL",BEYAZ TV
-https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ULUSAL",FOX
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 7" tvg-logo="" group-title="ULUSAL",KANAL 7
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="ULUSAL",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="" group-title="ULUSAL",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="ULUSAL",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="BELGESEL",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="BELGESEL",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="" group-title="BELGESEL",TRT BELGESEL
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABERTURK" tvg-logo="" group-title="HABERLER",HABERTURK
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="HABERLER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="HABERLER",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="HABERLER",A HABER
+http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-logo="" group-title="HABERLER",CNN TURK
+https://cnnturk.blutv.com/blutv_cnnturk_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABERGLOBAL" tvg-logo="" group-title="HABERLER",HABERGLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV" tvg-logo="" group-title="ULUSAL",BEYAZ TV
+https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT TÜRK" tvg-logo="" group-title="ULUSAL",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ" tvg-logo="" group-title="ULUSAL",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT EU" tvg-logo="" group-title="ULUSAL",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="ULUSAL",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TVEM" tvg-logo="" group-title="ULUSAL",TVEM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="" group-title="ULUSAL",360 TV
@@ -43,43 +64,31 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SANCAK TV" tvg-logo="" group-title="ULUSAL",SANCAK TV
 https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FLASH TV" tvg-logo="" group-title="HABERLER",FLASH TV
+#EXTINF:-1 tvg-id="" tvg-name="FLASH TV" tvg-logo="" group-title="ULUSAL",FLASH TV
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="HABERLER",A HABER
-http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 100" tvg-logo="" group-title="HABERLER",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HABERGLOBAL" tvg-logo="" group-title="HABERLER",HABERGLOBAL
-https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="HABERLER",HALK TV
+
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="ULUSAL",HALK TV
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KRT" tvg-logo="" group-title="HABERLER",KRT
+#EXTINF:-1 tvg-id="" tvg-name="KRT" tvg-logo="" group-title="ULUSAL",KRT
 https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="" group-title="HABERLER",TELE 1
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="" group-title="ULUSAL",TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL" tvg-logo="" group-title="HABERLER",ULUSAL KANAL
+#EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL" tvg-logo="" group-title="ULUSAL",ULUSAL KANAL
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-logo="" group-title="HABERLER",CNN TURK
-https://cnnturk.blutv.com/blutv_cnnturk_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HABERTURK" tvg-logo="" group-title="HABERLER",HABERTURK
-https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="HABERLER",NTV
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="HABERLER",TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo="" group-title="HABERLER",TGRT HABER
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV" tvg-logo="" group-title="HABERLER",ÜLKE TV
 https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="BELGESEL",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="BELGESEL",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="BELGESEL",ID
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="" group-title="BELGESEL",TRT BELGESEL
-http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="YABAN TV" tvg-logo="" group-title="BELGESEL",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL" tvg-logo="" group-title="BELGESEL",TGRT BELGESEL
